@@ -43,7 +43,7 @@ class Var:
     # Other Configs
 
     THUMB = config(
-        "THUMBNAIL", default="https://graph.org/file/ad1b25807b81cdf1dff65.jpg"
+        "THUMBNAIL", default="https://telegra.ph/file/9d2bae33cabd7c8d5580e.jpg"
     )
     FFMPEG = config("FFMPEG", default="ffmpeg")
     CRF = config("CRF", default="27")
