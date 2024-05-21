@@ -31,13 +31,15 @@ class AnimeInfo:
         self.CAPTION = """
 **{}
 ━━━━━━━━━━━━━━━
-‣ Language : Japanese [English-Sub]
-‣ Quality : 480p, 720p, 1080p
-‣ Season : {}
-‣ Episode : {}
+🎶 Language : Japanese [English-Sub]
+📺 Quality : 480p, 720p, 1080p
+😶‍🌫️ Season : {}
+👀 Episode : {}
 ━━━━━━━━━━━━━━━
-〣 Next Airing Episode: {}
-〣 Next Airing Episode Date: {}
+🤩 Next Airing Episode: {}
+📅 Next Airing Episode Date: {}
+━━━━━━━━━━━━━━━
+✈️ "Please wait⏳ Download and upload will finish in 10-20 minutes. Thanks!"📩
 ━━━━━━━━━━━━━━━**
 """
         self.proper_name = self.get_proper_name_for_func(name)
