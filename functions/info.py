@@ -40,6 +40,7 @@ class AnimeInfo:
 📅 Next Airing Episode Date: {}
 ━━━━━━━━━━━━━━━
 ✈️ "Please wait⏳ Download and upload will finish in 10-20 minutes. Thanks!"📩
+👉  Main Channel : @Movierulzking
 ━━━━━━━━━━━━━━━**
 """
         self.proper_name = self.get_proper_name_for_func(name)
