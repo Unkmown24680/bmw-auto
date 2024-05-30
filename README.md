@@ -28,7 +28,7 @@
 ### Fork Repo Then click on below button of ur fork repo.
 ### Fork Repo Then click on below button of your forked repository.
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/<Unkmown24680/>/<bmw-auto>)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/unkmown24680/bmw-auto)
 
 
 ## Developer Note
